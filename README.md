@@ -1,12 +1,12 @@
-*Notes for Testers*
-There are 2 implementations:
- -Javascript
- Shows core foundation of a segmented sieve implementation
- -Go
- Leverages Go routines / Go functions to optimize the initial semented approach from Javascript
+#*Notes for Testers*  
+There are 2 implementations:  
+ -Javascript  
+ Shows core foundation of a segmented sieve implementation  
+ -Go  
+ Leverages Go routines / Go functions to optimize the initial semented approach from Javascript  
 
-Please CD into /javascript to run "npm run test"
-Please CD into /go to run "go test ./..." || If it is not showing the time elapsed, please run "go test -count=1 ./..." to bypass test caching and force the time elapsed return
+Please CD into /javascript to run "npm run test"  
+Please CD into /go to run "go test ./..." || If it is not showing the time elapsed, please run "go test -count=1 ./..." to bypass test caching and force the time elapsed return  
 
 
 # BHE Software Engineer Coding Exercise
